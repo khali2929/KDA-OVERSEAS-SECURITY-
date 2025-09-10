@@ -1,0 +1,4 @@
+Flask==2.3.3
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+requests==2.31.0
